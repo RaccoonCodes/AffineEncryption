@@ -3,7 +3,7 @@
 #include <algorithm>
 
 /*
-* 5/22/2022
+* 5/22/2022-----
 * This program uses Affine Encryption where the keys alpha and beta are known in ax + b (mod 26) 
 * It ask user to choose to encrypt or decrypt. 
 */
