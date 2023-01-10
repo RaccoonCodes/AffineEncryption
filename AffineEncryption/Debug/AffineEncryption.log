@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\punis\OneDrive\Desktop\Personal Project\AffineEncryption\AffineEncryption\main.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\punis\OneDrive\Desktop\Personal Project\AffineEncryption\AffineEncryption\main.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+  AffineEncryption.vcxproj -> C:\Users\punis\OneDrive\Desktop\Personal Project\AffineEncryption\Debug\AffineEncryption.exe
