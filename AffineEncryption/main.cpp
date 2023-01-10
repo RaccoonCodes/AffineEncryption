@@ -8,6 +8,7 @@
 * It ask user to choose to encrypt or decrypt. 
 */
 
+
 using namespace std;
 string affineEncryption(string p,int a, int b) {
 	string cipher = "";
